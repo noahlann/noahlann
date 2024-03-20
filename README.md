@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=noahlann&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on Gxzc
+- 🔭 I’m currently working on Whtb
 - 🌱 I’m currently learning **Golang**
 - 👯 I’m looking to collaborate on **ntools-go**
 
